@@ -1,6 +1,6 @@
 [package]
 name = "nu_plugin_{{ plugin_name }}"
-version = "0.0.2"
+version = "0.0.1"
 authors = ["x0f5c3 <x0f5c3@tutanota.com>"]
 edition = "2021"
 repository = "https://github.com/x0f5c3/nu_plugin_{{ plugin_name }}"
