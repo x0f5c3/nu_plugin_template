@@ -1,18 +1,15 @@
 [package]
 name = "nu_plugin_{{ plugin_name }}"
 version = "0.0.2"
-authors = ["Darren Schroeder"]
+authors = ["x0f5c3 <x0f5c3@tutanota.com>"]
 edition = "2021"
-repository = "https://github.com/fdncred/nu_plugin_{{ plugin_name }}"
+repository = "https://github.com/x0f5c3/nu_plugin_{{ plugin_name }}"
 description = "a nushell plugin called {{ plugin_name }}"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-# for local development, you can use a path dependency
-# nu-plugin = { path = "../nushell/crates/nu-plugin", version = "0.75.1"}
-# nu-protocol = { path = "../nushell/crates/nu-protocol", version="0.75.1"}
 nu-plugin = "0.76.0"
 nu-protocol = "0.76.0"
 
