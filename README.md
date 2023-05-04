@@ -1,6 +1,6 @@
 # nu_plugin_template
 
-This is a starter plugin. It just lays out one way to make nushell plugins with nushell version 0.72.0
+This is a starter plugin. It just lays out one way to make nushell plugins with nushell version 0.79.0
 
 This template is intended to be used with [cargo-generate](https://github.com/cargo-generate/cargo-generate) in order to quickly
 bootstrap nushell plugin projects.
