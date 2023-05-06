@@ -7,8 +7,8 @@ bootstrap nushell plugin projects.
 
 ## Usage:
 
-```
-> cargo generate --git https://github.com/fdncred/nu_plugin_template
+```shell
+> cargo generate --git https://github.com/x0f5c3/nu_plugin_template
 Project Name: <you choose a name here like nu-plugin-random>
 What should we call the plugin struct?: <you chose a name like RandomStruct>
 What is the name of this plugin package? <you choose a name like random>
